@@ -15,7 +15,7 @@
 	node server.js 
 
 
-6) to start notifeir
+6) to start notifier
 
 	node notifier_job.js 
 	
