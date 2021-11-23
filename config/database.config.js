@@ -1,5 +1,5 @@
 module.exports = {
     url: 'mongodb://localhost:27017/sgmailer',
-    from:'tejendradewangan27@gmail.com',
+    from:'fromemailaddress@mail.com',
     mail_limit :10
 }
