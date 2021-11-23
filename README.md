@@ -4,7 +4,7 @@
 
 2) update from email of sendgrid in database.config.js
 
-3) update sendgid key in mail.sender.js file
+3) update sendgrid key in mail.sender.js file
 
 4) you can change job interval time of notifer
 
